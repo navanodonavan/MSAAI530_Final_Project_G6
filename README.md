@@ -1,4 +1,4 @@
-# Project Title : TBD
+# Project Title : Predicting Power Generation Impacts from Weather Changes with Deep Learning and Time Series Models
 
 This project is a part of the AAI-530 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
@@ -35,7 +35,7 @@ The `TBD.ipynb` is the final version.
   
 ## Project Intro/Objective
 
-TBD
+We are utilizing the Sunlab Faro PV plant data and the Sunlab Faro Meteo data (https://www.edp.com/en/innovation/open-data/data) to predict solar power generation based on weather changes using deep learning and time series models.
 
 ### Partner(s)/Contributor(s)
 
@@ -68,4 +68,4 @@ TBD
 
 ### Project Description
 
-TBD
+We've combined the Solar Plant data and the Meteo data together from 2014, 2015, 2016, and 2017 for our modeling. We've cleaned the data for missing values and removed the Horizontal and Vertical panel orientations. We are focusing on the "Optimal" panel orientation for our analysis.
