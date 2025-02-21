@@ -6,11 +6,9 @@ This project is a part of the AAI-530 course in the Applied Artificial Intellige
 
 ## Installation
 
-TBD
+Launch Jupyter notebook and open the `MSAAI530_Final_Project_LSTM_Regression.ipynb and MSAAI530_Group6_LSTM_Efficiency.ipynb` file(s) from this repository. 
 
-Launch Jupyter notebook and open the `TBD.ipynb` file from this repository. 
-
-The `TBD.ipynb` is the final version.
+The `MSAAI530_Final_Project_LSTM_Regression.ipynb and MSAAI530_Group6_LSTM_Efficiency.ipynb` is the final version.
 
 ## Required libraries to be installed including:
 
